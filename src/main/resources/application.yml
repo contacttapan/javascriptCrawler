@@ -1,0 +1,3 @@
+crawer:
+    maxSerachStringAllowed: 256
+    threadDefaultCount: 7
